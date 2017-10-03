@@ -14,6 +14,7 @@ When a user does a GET request to "localhost:8000/getinfo" the server should sen
 
 ## Regroup and discuss before going to the next challenge.
 
+
 ### Challenge 4:
 When a user does a POST request to "localhost:8000/count" you should add to a running total that starts at 0.
 
